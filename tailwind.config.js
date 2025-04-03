@@ -8,16 +8,16 @@ export default {
     extend: {
       colors: {
         primary: {
-          DEFAULT: '#2563eb', // Blue
-          light: '#3b82f6',
-          dark: '#1d4ed8'
+          DEFAULT: '#5b21b6', // Dark Purple
+          light: '#7c3aed',
+          dark: '#4c1d95'
         },
         secondary: {
-          DEFAULT: '#f97316', // Orange
-          light: '#fb923c',
-          dark: '#ea580c'
+          DEFAULT: '#8b5cf6', // Medium Purple
+          light: '#a78bfa',
+          dark: '#6d28d9'
         },
-        accent: '#10b981', // Green
+        accent: '#c4b5fd', // Lavender
         surface: {
           50: '#f8fafc',   // Lightest
           100: '#f1f5f9',
